@@ -15,7 +15,7 @@ const instructions = Platform.select({
     'Double tap R on your keyboard to reload,\n' +
     'Shake or press menu button for dev menu',
 });
-
+// "http://es6-features.org/#BinaryOctalLiteral"
 type Props = {};
 export default class App extends Component<Props> {
   render() {
